@@ -7,6 +7,7 @@ function App() {
     <div className="container">
       <button className="fire" >WATER</button>
       <button className="fire" style={{marginTop: "20px"}} >no no</button>
+      <div>The changes</div>
 
 
 
